@@ -38,6 +38,15 @@ h1 {
 
 }
 
+li {
+	list-style: none;
+}
+
+
+
+a:link {color: green; text-decoration-style: none;}
+a:visited {color:gray; text-decoration-style: none;}
+a:hover {color:red; text-decoration: none; }
 
 
 
